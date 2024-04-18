@@ -1,2 +1,2 @@
-# text-to-image
- Generates images from input text.
+# SDXL Turbo Text-to-Image and Image-to-Image
+ Generates images from input text and initial image.
